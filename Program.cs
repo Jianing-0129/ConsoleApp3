@@ -6,7 +6,8 @@ namespace ConsoleApp3
     {
         static void Main(string[] args)
         {
-// gjhjhgjh测试
+            // gjhjhgjh测试
+            double dd = 515.5421545;
         }
     }
 }
